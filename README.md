@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### 🚀 Recent Computer Science Graduate | AI & Data Enthusiast | Cloud Computing Advocate
+### 📊 Aspiring Data Analyst | Business Intelligence Enthusiast | Data-Driven Problem Solver
 
-*Passionate about solving real-world problems through **Data**, **AI**, and **Cloud Computing***
+*Passionate about transforming raw data into **actionable insights** and **business intelligence***
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-kumar-1a1048356)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavudyacherry03@gmail.com)
@@ -16,120 +16,198 @@
 
 ## 🎯 About Me
 
-I'm a recent **Computer Science graduate** from **CMR Technical Campus** (Nov 2021 – July 2025) based in **Hyderabad, India**. I'm passionate about using technology to solve real-world problems through **data, AI, and cloud computing**. 
+I'm a **Computer Science graduate** from **CMR Technical Campus** (Nov 2021 – July 2025) based in **Hyderabad, India**, with a strong passion for **data analysis** and **business intelligence**. I specialize in extracting meaningful patterns from complex datasets and transforming them into **actionable insights** that drive **data-driven decision-making**.
 
-I enjoy working on **machine learning projects**, **data analytics**, and exploring **AI-powered tools** that improve productivity and decision-making. I'm currently strengthening my skills in **Python**, **SQL**, **cloud technologies**, and building projects that combine **AI and software engineering principles**.
+My expertise lies in **data cleaning**, **exploratory data analysis (EDA)**, **data visualization**, and **SQL-based analytics**. I enjoy solving real-world business problems using **Python**, **SQL**, **Power BI**, and **Tableau**, while building interactive dashboards that tell compelling data stories.
 
-I'm actively seeking **entry-level opportunities** as a **Software Engineer**, **Data Analyst**, **Cloud Engineer**, or **AI/ML Engineer** where I can apply my technical skills, gain hands-on industry experience, and continue learning modern technologies.
+I'm actively seeking **entry-level Data Analyst positions** where I can leverage my analytical mindset, technical skills, and problem-solving abilities to unlock business value from data and contribute to data-driven strategies.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### 📊 Data Analysis & Visualization (Core Expertise)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 🏗️ Backend & Data Engineering
-![Python](https://img.shields.io/badge/Python%20Development-3776AB?style=flat-square&logo=python&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-FF6B6B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNSIgeT0iMTgiIGZpbGw9IndoaXRlIiBmb250LXNpemU9IjEyIj5FVEw8L3RleHQ+PC9zdmc+&logoColor=white)
-![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-00A4EF?style=flat-square&logo=apache&logoColor=white)
+### 📈 Data Analysis Tools & Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-087E8B?style=flat-square&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Relational DB](https://img.shields.io/badge/Relational%20DB-003B57?style=flat-square&logo=database&logoColor=white)
+### 📋 Data Processing & ETL
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF6B6B?style=flat-square&logoColor=white)
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-00A4EF?style=flat-square&logoColor=white)
+![ETL Basics](https://img.shields.io/badge/ETL%20Basics-FF6B6B?style=flat-square&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-003B57?style=flat-square&logo=database&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### 🗄️ Databases & Query Languages
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Queries](https://img.shields.io/badge/SQL%20Queries-336791?style=flat-square&logoColor=white)
+![Relational Databases](https://img.shields.io/badge/Relational%20DB-003B57?style=flat-square&logo=database&logoColor=white)
 
-### 🤖 AI/ML & Data Science
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-5B3CC4?style=for-the-badge&logo=openai&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-00D9FF?style=for-the-badge&logo=openai&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-F37726?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)
+### 🛠️ Development & Productivity Tools
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Office%20Suite-0078D4?style=flat-square&logo=microsoft-office&logoColor=white)
+
+### ☁️ Supporting Knowledge (Additional Skills)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML%20Basics-FF6B35?style=flat-square&logoColor=white)
+
+---
+
+## 🚀 Featured Projects (Recommended Data Analyst Projects)
+
+> 💡 **Note:** Below are strategic data analyst projects I recommend building to strengthen your portfolio. These projects showcase core data analytics skills that employers value.
+
+### 📊 Project 1: Sales Data Analytics Dashboard
+**Status:** 🔄 In Progress / Recommended to Build
+
+**Description:**  
+Build an interactive sales analytics dashboard that analyzes sales trends, revenue patterns, customer segments, and product performance over time. This project demonstrates your ability to clean raw data, perform EDA, and create compelling visualizations.
+
+**Tech Stack:**  
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-### 🛠️ Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B4472C?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+**Key Skills Demonstrated:**
+- ✅ SQL data extraction and transformation
+- ✅ Data cleaning and EDA using Pandas
+- ✅ Dashboard creation with Power BI or Tableau
+- ✅ KPI calculation and business metrics
+- ✅ Data visualization best practices
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎯 Project 1: Face Detection & Recognition in Organic Video
+### 📈 Project 2: Customer Churn Analysis
+**Status:** 🔄 In Progress / Recommended to Build
 
 **Description:**  
-Developed a machine learning-based system to detect and recognize faces in noisy, real-world videos. Applied fuzzy-logic techniques and neural networks to improve face recognition accuracy across varying conditions and video frames.
+Analyze customer churn patterns using SQL to extract data, Python (Pandas, NumPy) for analysis, and create visualizations to identify churn drivers. Provide actionable recommendations for retention strategies.
 
 **Tech Stack:**  
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-FF6B35?style=flat-square)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-5B3CC4?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00A4EF?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-087E8B?style=flat-square&logoColor=white)
 
-**Key Achievements:**
-- ✅ Implemented advanced face detection algorithms
-- ✅ Applied fuzzy-logic for improved accuracy
-- ✅ Handled real-world video challenges (noise, lighting, angles)
+**Key Skills Demonstrated:**
+- ✅ Data extraction with SQL queries
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Statistical analysis and pattern identification
+- ✅ Python data visualization
+- ✅ Business insights and recommendations
 
 ---
 
-### 🎨 Project 2: Generating Synthetic Images from Text using RNN & CNN
+### 💰 Project 3: Finance Budget vs. Actual Analysis
+**Status:** 🔄 In Progress / Recommended to Build
 
 **Description:**  
-Built a deep learning project that converts text descriptions into synthetic images using Recurrent Neural Networks (RNN) and Convolutional Neural Networks (CNN). Gained hands-on experience in deep learning pipelines, data processing, and model evaluation.
+Create a comprehensive financial analysis dashboard comparing budgeted vs. actual spending. Use SQL for data queries, Excel for initial analysis, and Power BI for interactive reporting. Perfect for demonstrating business acumen.
+
+**Tech Stack:**  
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Key Skills Demonstrated:**
+- ✅ Complex SQL queries and JOINs
+- ✅ Excel pivot tables and formulas
+- ✅ Budget variance analysis
+- ✅ Interactive dashboard design
+- ✅ Financial metrics and reporting
+
+---
+
+### 🏥 Project 4: Healthcare Data Analysis (COVID-19 or Hospital Metrics)
+**Status:** 🔄 In Progress / Recommended to Build
+
+**Description:**  
+Perform in-depth analysis on healthcare datasets (e.g., COVID-19 statistics or hospital metrics). Demonstrate data cleaning, statistical analysis, trend identification, and visualization of complex health metrics.
 
 **Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![RNN](https://img.shields.io/badge/RNN-FF6B35?style=flat-square)
-![CNN](https://img.shields.io/badge/CNN-5B3CC4?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00A4EF?style=flat-square)
-![AI](https://img.shields.io/badge/AI-5B3CC4?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-**Key Achievements:**
-- ✅ Designed end-to-end deep learning pipeline
-- ✅ Text-to-image synthesis using RNN & CNN
-- ✅ Evaluated model performance and optimization
+**Key Skills Demonstrated:**
+- ✅ Data cleaning and preprocessing
+- ✅ Time-series analysis
+- ✅ Statistical testing and insights
+- ✅ Professional data storytelling
+- ✅ Large dataset handling
+
+---
+
+### 🛍️ Project 5: E-commerce Product Performance Analysis
+**Status:** 🔄 In Progress / Recommended to Build
+
+**Description:**  
+Analyze e-commerce datasets to identify top-performing products, customer segments, and sales trends. Use SQL for data extraction, Python for analysis, and create interactive dashboards showing ROI, conversion rates, and product recommendations.
+
+**Tech Stack:**  
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Key Skills Demonstrated:**
+- ✅ Multi-table SQL queries
+- ✅ Cohort analysis
+- ✅ Customer segmentation
+- ✅ Performance metric calculations
+- ✅ Business intelligence reporting
+
+---
+
+> 📌 **Recommendation:** Start with **Project 1 (Sales Dashboard)** or **Project 2 (Churn Analysis)**—these are employer-favorite projects that best showcase core data analyst competencies.
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-### 🎓 Cloud & Computing Certifications
-- ✅ **AWS Academy Graduate** – AWS Academy Cloud Foundations (2023)
-- ✅ **Google Cloud Associate Track** – Google Cloud Career Readiness (2024)
-- ✅ **Google Cloud Data Analyst Track** – Google Cloud Career Readiness (2023)
-
-### 📊 Data & Analytics Certifications
+### 📊 Data Analytics & Business Intelligence Certifications
 - ✅ **Data Analytics Certification** – AICTE EduSkills Foundation (2026)
 - ✅ **Data Visualization Certification** – TATA Forage (2026)
+- ✅ **Google Cloud Data Analyst Track** – Google Cloud Career Readiness (2023)
 
-### 🤖 AI & Machine Learning Certifications
+### 💻 Programming & Technical Certifications
+- ✅ **Python Essentials 1 & 2** – Cisco Networking Academy (2024)
 - ✅ **Introduction to Artificial Intelligence** – Infosys Springboard (2023)
 - ✅ **Introduction to Machine Learning** – Infosys Springboard (2023)
 
-### 🔒 Security & Development Certifications
+### ☁️ Cloud & Enterprise Certifications
+- ✅ **AWS Academy Graduate** – AWS Academy Cloud Foundations (2023)
+- ✅ **Google Cloud Associate Track** – Google Cloud Career Readiness (2024)
+
+### 🔒 Additional Certifications
 - ✅ **Cybersecurity Analyst Certification** (2026)
-- ✅ **Python Essentials 1 & 2** – Cisco Networking Academy (2024)
 - ✅ **Software Engineering Completion Certificate** (2026)
 
-**📌 Total: 10+ Professional Certifications across Cloud, Data, AI, Cybersecurity, and Software Engineering**
+**📌 Total: 10+ Professional Certifications including Data Analytics, Cloud Computing, Programming, and Cybersecurity**
 
 ---
 
 ## 📚 Currently Learning & Exploring
 
-- 🔹 **Advanced Python Programming** – Building robust, scalable applications
-- 🔹 **Data Engineering & ETL Pipelines** – Designing efficient data workflows
-- 🔹 **Cloud Computing** – Deeper expertise in AWS & Google Cloud
-- 🔹 **Machine Learning & Deep Learning** – Advanced model architectures and optimization
-- 🔹 **Generative AI & AI-Powered Tools** – Exploring LLMs and AI applications
+- 🔹 **Advanced SQL** – Complex queries, window functions, query optimization, and database design
+- 🔹 **Python for Data Analysis** – Advanced Pandas, NumPy, Matplotlib, Seaborn for exploratory analysis
+- 🔹 **Power BI Dashboard Development** – Advanced visualizations, DAX, and interactive reporting
+- 🔹 **Data Modeling & ETL** – Designing efficient data pipelines and data warehousing concepts
+- 🔹 **Business Analytics & KPI Reporting** – Metrics, KPIs, forecasting, and business intelligence
 
 ---
 
@@ -137,11 +215,12 @@ Built a deep learning project that converts text descriptions into synthetic ima
 
 I'm actively seeking opportunities to collaborate on:
 
-- 🌟 **Open-source Projects** – Contributing to the tech community
-- 🤖 **AI & Machine Learning Projects** – Building intelligent solutions
-- 📊 **Data Analytics & Data Science Initiatives** – Extracting insights from data
-- ☁️ **Cloud Computing Projects** – Leveraging cloud platforms for scalability
-- 🚀 **Startup Ideas & Innovative Software Projects** – Building the future
+- 📊 **Data Analytics Projects** – Real-world datasets and business problem analysis
+- 📈 **Power BI & Tableau Dashboards** – Interactive visualizations and business intelligence tools
+- 🗄️ **SQL & Python Data Projects** – Data extraction, cleaning, and analysis initiatives
+- 💼 **Business Intelligence Projects** – KPI reporting, metrics, and business metrics
+- 🌐 **Open-source Data Projects** – Contributing to data science and analytics communities
+- 🚀 **Startup Analytics** – Data-driven insights for growth and business decisions
 
 ---
 
@@ -151,10 +230,11 @@ I'm actively seeking opportunities to collaborate on:
 |--------|---------|
 | **Education** | B.Tech Computer Science, CMR Technical Campus (Nov 2021 – July 2025) |
 | **Location** | Hyderabad, Telangana, India |
-| **Interests** | AI & ML, Data Analytics, Cloud Computing, Software Engineering, Generative AI |
-| **Status** | Recent Graduate | Actively Seeking Opportunities |
-| **Certifications** | 10+ across Cloud, Data, AI, Cybersecurity, and Software Engineering |
-| **Fun Fact** | 🎯 Earned 15+ certifications while completing B.Tech degree – passionate about continuous learning! |
+| **Career Focus** | Data Analyst | Business Intelligence | Analytics Engineering |
+| **Core Skills** | SQL, Python, Power BI, Tableau, Data Visualization, EDA, Excel |
+| **Status** | Recent Graduate | Actively Seeking Data Analyst Opportunities |
+| **Certifications** | 10+ including Data Analytics, Cloud Computing, Programming, and BI |
+| **Fun Fact** | 🎯 Earned 15+ certifications while completing B.Tech degree – dedicated to continuous learning! |
 
 ---
 
